@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <string name="tv_transaction">Transaction</string>
+    <declare-styleable name="AspectRatioView">
+        <attr format="float" name="view_aspectRatio"/>
+    </declare-styleable>
+</resources>

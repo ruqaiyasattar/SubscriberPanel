@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Subscriber Panel</string>
+
+    <string name="action_logout">Logout</string>
+    <string name="txt_welcome">Welcome to Subscriber Panel</string>
+    <string name="edt_username">EMAIL ADDRESS</string>
+    <string name="edt_password">PASSWORD</string>
+    <string name="bt_Submit">Login</string>
+    <string name="tv_transaction">Syptoms</string>
+    <string name="finish">Finished</string>
+
+    <string name="imagepicker_multiselect_done">Done</string>
+    <string name="imagepicker_multiselect_not_enough_singular">You have to select 1 more image</string>
+    <string name="imagepicker_multiselect_not_enough_plural">You have to select %d more images</string>
+    <string name="imagepicker_multiselect_enough_singular">You have selected 1 image</string>
+    <string name="imagepicker_multiselect_enough_plural">You have selected %d images</string>
+    <string name="imagepicker_multiselect_overselect">You cannot select more than %d images</string>
+    <string name="imagepicker_gallery_intent_title">Select Multiple Images</string>
+    <string name="imagepicker_no_image_text_view">There are no image in your device.</string>
+    <string name="login_email">demo@gmail.com</string>
+    <string name="userpass">123456789</string>
+    <string name="title_activity_amenity_dynamic">AmenityDynamicActivity</string>
+    <string name="select_additional_images">Select Additional Images</string>
+    <string name="amenity_details">AMENITY DETAILS</string>
+    <string name="mark_as_hot">Mark As Hot</string>
+    <string name="mark_as_feature">Mark As Feature</string>
+    <string name="mark_as_pop">Mark As PopOut</string>
+    <string name="mark_as_promo">Mark As Promo</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="front_image">Front Image</string>
+    <string name="land_area">Land Area</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="property_title">Property Title</string>
+    <string name="property_information">Property Information</string>
+    <string name="submit">Submit</string>
+    <string name="address">Address</string>
+</resources>
